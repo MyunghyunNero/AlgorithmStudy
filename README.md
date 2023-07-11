@@ -25,9 +25,9 @@
 
 ## 구성원
 
-| <img src="https://avatars.githubusercontent.com/u/91003734?v=4" alt="" width=200> | <img src="https://avatars.githubusercontent.com/u/90133076?v=4" alt="" width=200> |
-|:--:|:--:|
-| [명현](https://github.com/MyunghyunNero) | [기주](https://github.com/Wjadebea)|
+| <img src="https://avatars.githubusercontent.com/u/91003734?v=4" alt="" width=200> | <img src="https://avatars.githubusercontent.com/u/90133076?v=4" alt="" width=200> | <img src="https://avatars.githubusercontent.com/u/52378919?v=4" alt="" width=200> |
+|:--:|:--:|:--:|
+| [명현](https://github.com/MyunghyunNero) | [기주](https://github.com/Wjadebea)|[기훈](https://github.com/gikhoon)|
 
 
 
