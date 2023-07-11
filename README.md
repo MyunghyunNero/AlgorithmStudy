@@ -25,9 +25,9 @@ BOJ - 실버 5 ~ 3 1문제 , 실버 2 ~ 실버 1 한문제 , 골드 5  ~ 3   나
 
 ## 구성원
 
-| <img src="https://avatars.githubusercontent.com/u/91003734?v=4" alt="" width=200> |
-|:--:|
-| [명현](https://github.com/MyunghyunNero) | 
+| <img src="https://avatars.githubusercontent.com/u/91003734?v=4" alt="" width=200> | <img src="https://avatars.githubusercontent.com/u/90133076?v=4" alt="" width=200> |
+|:--:|:--:|
+| [명현](https://github.com/MyunghyunNero) | [기주](https://github.com/Wjadebea)|
 
 
 
